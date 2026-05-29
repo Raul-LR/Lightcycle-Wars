@@ -1,3 +1,4 @@
+
 # Lightcycle Wars
 
 ## Overview
@@ -95,16 +96,8 @@ This project is inspired by:
 
 ## In-Game Screenshots
 
-> Screenshots and gameplay previews will be added here in future updates.
-
-### Example Layout
-
-```markdown
-![Screenshot 1](Screenshots/MainTittleCapture.png)
-
-![Screenshot 2](Screenshots/GameplayCapture.png)
-
-```
+<img width="1920" height="1080" alt="MainTittleCapture" src="https://github.com/user-attachments/assets/cdacc55e-cbf9-473f-ad62-604c56ddb435" />
+<img width="1920" height="1080" alt="GameplayCapture" src="https://github.com/user-attachments/assets/afe3845d-cec8-49fd-b8a8-c0601579c2ff" />
 
 ---
 
