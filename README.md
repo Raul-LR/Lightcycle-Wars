@@ -18,7 +18,6 @@ Players control futuristic light bikes capable of generating solid energy trails
 * Keyboard and gamepad support
 * Free camera movement
 * Modernized vehicle controls inspired by contemporary games such as GTA
-* Multiplayer-oriented gameplay
 * Multiple lives system
 * Dynamic light trail generation
 * Modern visual effects and rendering techniques
