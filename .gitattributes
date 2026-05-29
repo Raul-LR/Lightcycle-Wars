@@ -139,3 +139,5 @@
 *.gz lfs-file
 *.rar lfs-file
 *.tar lfs-file
+
+Assets/TextMesh?Pro/** linguist-generated
